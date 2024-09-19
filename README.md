@@ -32,7 +32,8 @@ These controls are for pico 4 with vr desktop. Don't know if/how it works with q
 -move:    grab with one controller<br/>
 -scale:    grab with both controllers<br/>
 -menu:    left controller menu button<br/>
--browser back:    left controller X<br/>
+-browser back:    left controller X, or press the ^ button on the top<br/>
+-quit app:    press the X button on the bottom.
 
 ## Credits
 
