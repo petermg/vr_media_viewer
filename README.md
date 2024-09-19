@@ -25,6 +25,15 @@ In my experience making a full build makes the video playback a lot smoother as 
 -If you have no image after pressing the pause button, press the video timeline and it should maybe reappear.<br/>
 -If you lost the file browser, look up. You most likely scrolled very far and it somehow doesn't reset the scroll position when loading a new folder.<br/>
 
+## controller bindings
+These controls are for pico 4 with vr desktop. Don't know if/how it works with quest<br/>
+-manipulate depth:    right stick forward/backward<br/>
+-next/previous    file in folder: right stick right/left<br/>
+-move:    grab with one controller<br/>
+-scale:    grab with both controllers<br/>
+-menu:    left controller menu button<br/>
+-browser back:    left controller X<br/>
+
 ## Credits
 
 the onnx models were downloaded from https://github.com/fabio-sim/Depth-Anything-ONNX/releases.<br/>
